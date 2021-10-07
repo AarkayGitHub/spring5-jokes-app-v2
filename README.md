@@ -2,8 +2,6 @@
 Spring MVC Chuck Norris Jokes App.
 
 #Added By Ramanujam
-Trying with 2FA Setting Up.
-One more change
 This repository contains code to support my online courses. Learn more using the links below!
 
 You can learn more about the courses here:
