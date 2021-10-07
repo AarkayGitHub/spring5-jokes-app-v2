@@ -22,4 +22,11 @@ public class JokesController {
         model.addAttribute("joke", jokeService.getJoke());
         return "index";
     }
+    
+    @RequestMapping({"/showjoke", ""})
+    public String showOneMoreJoke(Model model) {
+
+        model.addAttribute("joke", jokeService.getJoke());
+        return "index";
+    }
 }
